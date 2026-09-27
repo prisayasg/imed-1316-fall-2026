@@ -1,0 +1,18 @@
+/*
+60 of #D99AB1
+30 of #1D4040
+10 of #F2BBCF
+*/
+
+:root {
+
+    /* var(--primaryColor) */
+    --primaryColor: #D99AB1;
+
+    /* var(--secondaryColor) */
+    --secondaryColor: #1D4040;
+
+    /* var(--accentColor) */
+    --accentColor: #F2BBCF;
+
+}
