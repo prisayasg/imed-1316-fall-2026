@@ -12,6 +12,12 @@ body {
     padding: 25px;
 }
 
+.font-awesome-icons i {
+    font-size: 60px;
+}
+
+
+
 .montserrat-imed {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
